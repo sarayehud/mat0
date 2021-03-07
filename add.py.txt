@@ -1,0 +1,3 @@
+num1 = input("select an integer") 
+num2 = input("select another integer") 
+print( int(num1)+int(num2))
